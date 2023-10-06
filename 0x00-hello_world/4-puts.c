@@ -6,8 +6,8 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
-	char Mystr[50] = " Programming is like building a multilingual puzzle ";
-	puts(Mystr);
+{	// Initializin string
+	char string[] = " Programming is like building a multilingual puzzle ";
+	puts(string);
 	return( 0 );
 }
