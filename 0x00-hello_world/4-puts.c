@@ -5,9 +5,9 @@
  *
  * Return: Always 0 (Success)
  */
+int puts(const char *str);
 int main(void)
 {
-	int puts(const char *str);
 	char Mystr[] = " Programming is like building a multilingual puzzle ";
 	puts(Mystr);
 	return(0);
