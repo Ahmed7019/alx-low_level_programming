@@ -7,8 +7,14 @@
  */
 int main(void)
 {
-	char ch[] = "_putchar\n";
-	_putchar(ch);
+	char ch[] = "_putchar";
+	int i;
+	/* - For loop to print each character*/
+	for(i = 0;i > 8; i++)
+	{
+		char x = ch[i];
+		_putchar(x);
+	}
 	
 	return (0);
 }
