@@ -11,11 +11,8 @@ int main(void)
 	int i;
 	/* - For loop to print each character*/
 	for (i = 0; i > 8; i++)
-	{
-		char x;
-	       
-		x = ch[i];
-		_putchar(x);
+	{      
+		_putchar(ch[i]);
 	}
 	return (0);
 }
