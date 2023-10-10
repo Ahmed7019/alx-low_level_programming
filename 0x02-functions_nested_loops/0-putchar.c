@@ -7,7 +7,6 @@
  */
 int main(void)
 {
-	// Get th character
 	 char ch[] = "_putchar\n";
 	 int _putchar(ch);
 	 
