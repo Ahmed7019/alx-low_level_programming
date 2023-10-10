@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	 char ch[] = "_putchar\n";
-	 int _putchar(ch);
-	 
-	 return (0);
+	char ch[] = "_putchar\n";
+	_putchar(ch);
+	
+	return (0);
 }
