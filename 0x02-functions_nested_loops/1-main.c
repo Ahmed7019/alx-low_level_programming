@@ -1,5 +1,7 @@
 #include <unistd.h>
 #include <ctype.h>
+#include "main.h"
+
 /**
  * _print_alphabet - prints the alphabet in lower case
  * @a: The alphapet to print
