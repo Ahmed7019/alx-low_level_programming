@@ -10,7 +10,7 @@
 void print_alphapet(void)
 {
 	char a;
-	putchar('%c', tolower(a));
+	_putchar('%c', tolower(a));
 
 	return (0);
 }
